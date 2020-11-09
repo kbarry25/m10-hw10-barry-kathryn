@@ -6,3 +6,14 @@
   opacity: 1;
   transition: opacity 1s;
 }
+
+body {
+  font-family: sans-serif;
+  color: #77ACF8;
+  background-color: #042E6C;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
